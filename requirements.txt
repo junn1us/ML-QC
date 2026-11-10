@@ -1,0 +1,6 @@
+# Versions selected for the local validation environment; see README for Python version.
+numpy==2.4.1
+scipy==1.17.0
+scikit-learn==1.8.0
+pandas==3.0.0
+matplotlib==3.10.8
